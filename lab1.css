@@ -1,0 +1,21 @@
+#MyDiv1{
+	width: 30%;
+	height: 50px;
+	background-color: red;
+	float: left;
+border: solid green 10px;
+	border-left-color: black;
+	letter-spacing: 2px;
+}
+#MyDiv2{
+	width: 30%;
+	height: 50px;
+	background-color: blue;
+	float:left;
+}
+#MyDiv3{
+	width: 30%;
+	height: 50px;
+	background-color: yellow;
+
+}
